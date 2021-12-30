@@ -2,7 +2,7 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| - :zap: I love programming, data, cars and <br />- 🔭 I’m currently working on ... a raspberry pi set of gauges for my car<br />-🤔 Fun fact: ... i still drive stick shift<br />- 💬 Ask me about ... video games<br />- 🌱 I’m addicted to learning and growing every day<br />- 📫 How to find me: - :office: [LinkedIn](https://www.linkedin.com/in/jeremy-boron/)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitmanof44th&layout=compact&theme=onedark)](https://github.com/hitmanof44th/github-readme-stats)  |
+| - :zap: I love programming, data, cars and <br />- 🔭 I’m currently working on ... a raspberry pi set of gauges for my car<br />- 🤔 Fun fact: ... i still drive stick shift<br />- 💬 Ask me about ... video games<br />- 🌱 I’m addicted to learning and growing every day<br />- 📫 How to find me: - :office: [LinkedIn](https://www.linkedin.com/in/jeremy-boron/)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitmanof44th&layout=compact&theme=onedark)](https://github.com/hitmanof44th/github-readme-stats)  |
 
 
 
