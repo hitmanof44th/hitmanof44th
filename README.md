@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitmanof44th&layout=compact&theme=onedark)](https://github.com/hitmanof44th/github-readme-stats)  |
+
+
+
 <!--
 **hitmanof44th/hitmanof44th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -22,4 +29,4 @@ Here are some ideas to get you started:
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/jeremy-boron/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitmanof44th&layout=compact&theme=onedark)](https://github.com/hitmanof44th/github-readme-stats)
+
